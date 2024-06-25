@@ -1,0 +1,2 @@
+# Shumatics Wordpress Plugin
+ 
