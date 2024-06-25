@@ -130,8 +130,6 @@ class Shumatics_Wordpres_Plugin
 		require_once SHUMATICS_FOLDER . 'inc/functions.php';
 		require_once SHUMATICS_FOLDER . 'inc/SuccessResponse.php';
 
-
-
 		$this->loader = new Shumatics_Wordpres_Plugin_Loader();
 	}
 
