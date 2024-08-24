@@ -38,7 +38,7 @@ if (!defined('WPINC')) {
 define('SHUMATICS_WORDPRES_PLUGIN_VERSION', '1.0.0');
 define('SHUMATICS_WP_HEADLESS_VERSION', '1.0.0');
 define('SHUMATICS_DB_HEADLESS_VERSION', '1.0.0');
-define('SHUMATICS_FOLDER', plugin_dir_path(dirname(__FILE__)));
+define('SHUMATICS_FOLDER', plugin_dir_path(__FILE__));
 
 /**
  * The code that runs during plugin activation.
